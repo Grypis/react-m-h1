@@ -1,0 +1,36 @@
+.table {
+    margin: 20px;
+    width: 100%;
+    border-collapse: collapse;
+   border: 1px solid black;
+}
+
+.thead {
+    font-family: sans-serif;
+    text-align-last: center;
+    color: white;
+    background-color: rgba(9, 9, 9, 0.875);
+    font-family: sans-rgb(24, 23, 23);
+    font-size: 18px;
+    line-height: 41px;
+    margin: 12px 0;
+}
+
+.theadTr {
+    
+}
+
+.tbodyTr {
+    
+}
+
+.td {
+    border: 1.5px solid black;
+    text-align: center;
+    font-family: sans-serif;
+    line-height: 24px;
+}
+
+tr:nth-child(even) {
+    background-color: rgba(128, 128, 128, 0.474);
+}
