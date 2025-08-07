@@ -1,0 +1,16 @@
+.list {
+    display: flex;
+    margin-top: 25px;
+    
+    justify-content: center;
+    gap: 20px;
+}
+
+.sublist {
+    font-size: 18px;
+    line-height: 1.25;
+    padding: 10px;
+    text-align: center;
+   border: 2px solid black;
+   border-radius: 15px;
+}

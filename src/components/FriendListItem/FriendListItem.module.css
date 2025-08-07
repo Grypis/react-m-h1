@@ -1,0 +1,25 @@
+.image {
+    margin-bottom: 10px;
+}
+
+.name {
+    font-family: san-serif;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.stat {
+    font-family: sans-serif;
+   font-size: 16px;
+    line-height: 1.25;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.online {
+    color: green;
+}
+
+.offline {
+    color: red;
+}
