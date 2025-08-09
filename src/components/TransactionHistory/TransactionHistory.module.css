@@ -1,6 +1,16 @@
+.container {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 16px;
+}
+
+.title {
+    text-align: center;
+}
+
 .table {
     margin: 20px;
-    width: 100%;
+    width: 95%;
     border-collapse: collapse;
    border: 1px solid black;
 }
@@ -14,14 +24,6 @@
     font-size: 18px;
     line-height: 41px;
     margin: 12px 0;
-}
-
-.theadTr {
-    
-}
-
-.tbodyTr {
-    
 }
 
 .td {

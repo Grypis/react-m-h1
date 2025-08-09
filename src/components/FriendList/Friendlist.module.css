@@ -1,3 +1,13 @@
+.container {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 16px;
+}
+
+.title {
+    text-align: center;
+}
+
 .list {
     display: flex;
     margin-top: 25px;
